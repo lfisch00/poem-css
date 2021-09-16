@@ -13,7 +13,7 @@ section {
     text-align: center;
     object-fit: contain;
     background-color: orange;
-    border:2px dotted sienna;
+    border:5pt dotted sienna;
     padding: 2rem;
     color: rgb(51, 4, 4);
     font-family: Arial, Helvetica, sans-serif;
@@ -35,7 +35,7 @@ section {
   .poem {
     background-color:rgb(54, 20, 4);
     object-fit: contain;
-    border:2px solid black;
+    border:5pt solid black;
     font-family: arial;
     color:white;
     font-size:14pt;
@@ -48,6 +48,7 @@ section {
     background:coral;
     margin: auto;
 }
+
 .tree {
   text-align:center;
   background:gold;
