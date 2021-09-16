@@ -39,7 +39,7 @@ section {
     object-fit: contain;
     border:5pt solid gold;
     font-family: arial;
-    color:white;
+    color:maroon;
     font-size:14pt;
     text-align: center;
     padding: 2rem;
@@ -48,11 +48,13 @@ section {
 .leaves {
     text-align:center;
     background:coral;
+    border:5pt solid white;
     margin: auto;
 }
 .tree {
   text-align:center;
   background:saddlebrown;
+  border:5pt solid white;
   margin: auto;
 }
 
