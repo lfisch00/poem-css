@@ -11,6 +11,7 @@
 
 section {
     text-align: center;
+    object-fit: contain;
     background-color: orange;
     border:2px dotted sienna;
     padding: 2rem;
@@ -33,6 +34,7 @@ section {
   
   .poem {
     background-color:rgb(54, 20, 4);
+    object-fit: contain;
     border:2px solid black;
     font-family: arial;
     color:white;
@@ -43,8 +45,13 @@ section {
 
 .leaves {
     text-align:center;
-    background:lightcyan;
+    background:coral;
     margin: auto;
+}
+.tree {
+  text-align:center;
+  background:gold;
+  margin: auto;
 }
 
     img {
