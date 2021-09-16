@@ -1,0 +1,29 @@
+section {
+    background-color: orange;
+    padding: 2rem;
+    color: red;
+    font-face: segoe-script;
+  }
+  
+  a {
+    color: maroon;
+  }
+  
+  a: hover {
+    color: green;
+  }
+  
+  a: visited {
+    color: brown;
+  }
+  
+  .poem {
+    background-color: red;
+    font-face: arial;
+    padding: 2rem
+  }
+  
+  marquee {
+    color: brown;
+    font-face: arial;
+  }
