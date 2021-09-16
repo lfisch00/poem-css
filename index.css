@@ -1,24 +1,24 @@
+img {
+    max-height:400 px;
+    max-width:300 px;
+}
+
 section {
     background-color: orange;
     padding: 2rem;
     color: rgb(51, 4, 4);
     font-family: cursive;
   }
-  
-img {
-    height:400 px;
-    width:300 px;
-}
 
   a {
     color: maroon;
   }
   
-  a: hover {
+  a:hover {
     color: green;
   }
   
-  a: visited {
+  a:visited {
     color: brown;
   }
   
