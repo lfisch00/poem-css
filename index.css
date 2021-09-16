@@ -8,6 +8,7 @@
    font-size:12pt;
   }
 section {
+    text-align: center;
     background-color: orange;
     border:2px;
     border-color:sienna;
@@ -16,12 +17,14 @@ section {
     font-family: Arial, Helvetica, sans-serif;
     font-weight: bold;
   }
+  
   a {
     color: maroon;
   }
   
   a:hover {
     color: green;
+    text-decoration: underline;
   }
   
   a:visited {
@@ -45,12 +48,14 @@ section {
 }
 
     img {
-     width: 50%;
-     height: 50%;
-      object-fit: contain;
+     width: 25%;
+     height: 25%;
+     border:solid, black, 2pt;
+     object-fit: contain;
 }
   
   marquee {
     color: brown;
     font-family: arial;
+    font-size:14pt;
   }
