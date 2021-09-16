@@ -2,9 +2,14 @@ section {
     background-color: orange;
     padding: 2rem;
     color: rgb(51, 4, 4);
-    font-family: fantasy;
+    font-family: cursive;
   }
   
+img {
+    height:400 px;
+    width:300 px;
+}
+
   a {
     color: maroon;
   }
@@ -26,4 +31,8 @@ section {
   marquee {
     color: brown;
     font-family: arial;
+  }
+
+  h1 {
+      font-family:'Courier New', Courier, monospace;
   }
