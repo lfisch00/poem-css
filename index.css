@@ -2,9 +2,12 @@
   h1 {
     font-family:'Courier New', Courier, monospace;
     font-weight: bold;
+    font-size:large;
 }
 section {
     background-color: orange;
+    border:2px;
+    border-color:sienna;
     padding: 2rem;
     color: rgb(51, 4, 4);
     font-family: Arial, Helvetica, sans-serif;
@@ -31,9 +34,15 @@ section {
   }
 
 .leaves {
-    object-fit:contain;
-    height:400px;
-    width:300px;
+    width:auto;
+    text-align:center;
+    padding:20px;
+}
+
+    img {
+     width: 100%;
+     height: 100%;
+      object-fit: contain;
 }
   
   marquee {
