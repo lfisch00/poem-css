@@ -19,18 +19,16 @@ section {
     font-weight: bold;
   }
   
-  a {
+  a:link {
     color: maroon;
     text-align: right;
   }
-  
+  a:visited {
+    color:black;
+  }
   a:hover {
     color: green;
     text-decoration: underline;
-  }
-  
-  a:visited {
-    color: brown;
   }
   
   .poem {
@@ -46,6 +44,7 @@ section {
 .leaves {
     text-align:center;
     background:lightcyan;
+    margin: auto;
 }
 
     img {
