@@ -28,7 +28,7 @@ section {
   }
   a:hover {
     color: green;
-    text-decoration: underline;
+    text-decoration: line-through;
   }
   
   .poem {
@@ -48,8 +48,8 @@ section {
 }
 
     img {
-     width: 15%;
-     height: 15%;
+     width:15%;
+     height:15%;
      border:2pt dashed maroon;
      object-fit: contain;
 }
@@ -58,5 +58,6 @@ section {
     color: brown;
     font-family:Arial, Helvetica, sans-serif;
     font-size:28pt;
-    padding: 2rem;
+    padding:2rem;
+    margin:20px;
   }
