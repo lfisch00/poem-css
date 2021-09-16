@@ -2,7 +2,7 @@ section {
     background-color: orange;
     padding: 2rem;
     color: red;
-    font-face: segoe-script;
+    font-family: segoe-script;
   }
   
   a {
@@ -19,11 +19,11 @@ section {
   
   .poem {
     background-color: red;
-    font-face: arial;
+    font-family: arial;
     padding: 2rem
   }
   
   marquee {
     color: brown;
-    font-face: arial;
+    font-family: arial;
   }
