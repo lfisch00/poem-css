@@ -39,7 +39,7 @@ section {
     object-fit: contain;
     border:5pt solid gold;
     font-family: arial;
-    color:maroon;
+    color: white;
     font-size:14pt;
     text-align: center;
     padding: 2rem;
@@ -61,7 +61,7 @@ section {
     img {
      width:15%;
      height:15%;
-     border:2pt dashed maroon;
+     border:2pt dashed orange;
      object-fit: contain;
 }
   
