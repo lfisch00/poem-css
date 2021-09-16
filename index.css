@@ -26,11 +26,13 @@ section {
   }
   
   .poem {
-    background-color: red;
+    background-color:yellow;
     border:1px;
     border-color:black;
     font-family: arial;
-    padding: 2rem
+    font-size:14pt;
+    text-align: center;
+    padding: 2rem;
   }
 
 .leaves {
