@@ -2,7 +2,7 @@ section {
     background-color: orange;
     padding: 2rem;
     color: rgb(51, 4, 4);
-    font-family: cursive;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
   }
 
   a {
@@ -24,8 +24,8 @@ section {
   }
 
 image {
-    max-height:400 px;
-    max-width:300 px;
+    height:400 px;
+    width:300 px;
 }
   
   marquee {
@@ -35,4 +35,5 @@ image {
 
   h1 {
       font-family:'Courier New', Courier, monospace;
+      font-weight: bold;
   }
