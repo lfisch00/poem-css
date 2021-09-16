@@ -49,13 +49,13 @@ section {
     text-align:center;
     background:coral;
     border:5pt solid white;
-    margin: auto;
+    padding:100px;
 }
 .tree {
   text-align:center;
   background:saddlebrown;
   border:5pt solid white;
-  margin: auto;
+  padding:100px;
 }
 
     img {
