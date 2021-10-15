@@ -1,5 +1,7 @@
-document.getElementById("lightSwitch").onclick = function nightMode() {}
-
 function nightMode() {
-    document.classList.toggle("body.nightmode");
+    const body = document.querySelector("body");
+	body.classList.toggle("nightMode");
 }
+
+const button = document.getElementById("lightSwitch");
+button.addEventListener("click", nightMode, false);
